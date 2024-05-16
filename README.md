@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-This project is a simple Random Quote Generator built using JavaScript. It displays a random inspirational quote along with its author's name when a button is clicked. You can view the live version of this project [Here](https://eman289.github.io/Random-Quotes-App/).
+This project is a simple Random Quote Generator built using JavaScript. It displays a random inspirational quote along with its author's name when a button is clicked. You can view the live version of this project [Here](https://fawzeyabdelkader.github.io/Quote-Of-The-Day/).
 
 ## Table of Contents
 
